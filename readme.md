@@ -94,17 +94,13 @@ OpenAI API Key 입력
 
 아래는 FoodVisionGO 앱의 실제 실행 화면 캡처와 동작 영상입니다.
 (과제 제출 시, 직접 촬영한 사진·영상 파일을 여기에 추가해 주세요.)
-
-🖼 1. 앱 실행 화면 (스크린샷)
-## 📸 구현 화면 및 데모
-
-### 1️⃣ 메인 화면
+### 📱 메인 화면
 ![메인 화면](screenshots/main.jpg)
 
-### 2️⃣ 카메라 촬영
+### 📷 카메라 촬영
 ![카메라 촬영](screenshots/camera.jpg)
 
-### 3️⃣ AI 분석 결과
+### 🤖 AI 분석 결과
 ![AI 분석 결과](screenshots/result.jpg)
 
 	
