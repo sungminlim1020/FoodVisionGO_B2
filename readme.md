@@ -99,13 +99,13 @@ OpenAI API Key 입력
 ## 📸 구현 화면 및 데모
 
 ### 1️⃣ 메인 화면
-![메인 화면](screenshots/main.png)
+![메인 화면](screenshots/main.jpg)
 
 ### 2️⃣ 카메라 촬영
-![카메라 촬영](screenshots/camera.png)
+![카메라 촬영](screenshots/camera.jpg)
 
 ### 3️⃣ AI 분석 결과
-![AI 분석 결과](screenshots/result.png)
+![AI 분석 결과](screenshots/result.jpg)
 
 	
 
