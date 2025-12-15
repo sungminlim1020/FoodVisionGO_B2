@@ -1,0 +1,9 @@
+
+<resources>
+    <style name="Theme.FoodVisionGO" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@android:color/holo_green_dark</item>
+        <item name="colorPrimaryVariant">@android:color/holo_green_light</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+    </style>
+</resources>
