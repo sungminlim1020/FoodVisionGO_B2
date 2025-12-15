@@ -66,7 +66,9 @@ yaml
 ---
 
 아래는 FoodVisionGO 앱의 실제 실행 화면 캡처와 동작 영상입니다.
-(과제 제출 시, 직접 촬영한 사진·영상 파일을 여기에 추가해 주세요.)
+(https://youtube.com/shorts/Ki_Id4zfBXY?feature=share)
+
+
 ### 📱 메인 화면
 ![메인 화면](https://raw.githubusercontent.com/sungminlim1020/FoodVisionGO_B2/master/screenshots/main.jpg)
 
