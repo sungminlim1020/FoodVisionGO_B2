@@ -96,11 +96,9 @@ OpenAI API Key 입력
 (과제 제출 시, 직접 촬영한 사진·영상 파일을 여기에 추가해 주세요.)
 
 🖼 1. 앱 실행 화면 (스크린샷)
-![Screenshot_20251206_211430](https://github.com/user-attachments/assets/b9ed75ab-bcc7-4b3f-8852-5b5702c5ddf3)
-
-![Screenshot_20251206_211443](https://github.com/user-attachments/assets/4962f8bc-5da2-4a48-a131-86ad412f8f5a)
-
-![Screenshot_20251206_214927](https://github.com/user-attachments/assets/a285c3e6-6006-4b5e-83b4-72747cce9954)
+(screenshots/main.png)
+(screenshots/camera.png)
+(screenshots/result.png)
 	
 
 🙌 개발자
