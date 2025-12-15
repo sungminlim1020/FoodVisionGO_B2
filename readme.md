@@ -96,11 +96,12 @@ OpenAI API Key 입력
 (과제 제출 시, 직접 촬영한 사진·영상 파일을 여기에 추가해 주세요.)
 
 🖼 1. 앱 실행 화면 (스크린샷)
-기능	화면![Screenshot_20251206_211430.jpg](../Users/%EC%9E%84%EC%84%B1%EB%AF%BC/Downloads/Screenshot_20251206_211430.jpg)
-메인 화면 – ![Screenshot_20251206_211443.jpg](../Users/%EC%9E%84%EC%84%B1%EB%AF%BC/Downloads/Screenshot_20251206_211443.jpg)
-갤러리에서 ![Screenshot_20251206_211443.jpg](../Users/%EC%9E%84%EC%84%B1%EB%AF%BC/Downloads/Screenshot_20251206_211443.jpg)
-AI 분석 결과 ![Screenshot_20251206_214927.jpg](../Users/%EC%9E%84%EC%84%B1%EB%AF%BC/Downloads/Screenshot_20251206_214927.jpg)
-카메라 촬영 화면(옵션)	[Screen_Recording_20251206_212105_Camera.mp4](../Users/%EC%9E%84%EC%84%B1%EB%AF%BC/Downloads/Screen_Recording_20251206_212105_Camera.mp4)
+![Screenshot_20251206_211430](https://github.com/user-attachments/assets/b9ed75ab-bcc7-4b3f-8852-5b5702c5ddf3)
+
+![Screenshot_20251206_211443](https://github.com/user-attachments/assets/4962f8bc-5da2-4a48-a131-86ad412f8f5a)
+
+![Screenshot_20251206_214927](https://github.com/user-attachments/assets/a285c3e6-6006-4b5e-83b4-72747cce9954)
+	
 
 🙌 개발자
 평택대학교 스마트콘텐츠학과
