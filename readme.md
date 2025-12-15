@@ -96,9 +96,17 @@ OpenAI API Key 입력
 (과제 제출 시, 직접 촬영한 사진·영상 파일을 여기에 추가해 주세요.)
 
 🖼 1. 앱 실행 화면 (스크린샷)
-(screenshots/main.png)
-(screenshots/camera.png)
-(screenshots/result.png)
+## 📸 구현 화면 및 데모
+
+### 1️⃣ 메인 화면
+![메인 화면](screenshots/main.png)
+
+### 2️⃣ 카메라 촬영
+![카메라 촬영](screenshots/camera.png)
+
+### 3️⃣ AI 분석 결과
+![AI 분석 결과](screenshots/result.png)
+
 	
 
 🙌 개발자
